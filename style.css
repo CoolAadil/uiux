@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+
+}
+
+.line{
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:8px auto;
+
+}
+#app{
+    background-color:aqua;
+}
